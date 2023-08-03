@@ -215,7 +215,7 @@ api_url2 = "https://data.lacity.org/resource/e7h6-4a3e.json"
 bucket_name = 'insert_bucket_name'  # Replace with your S3 bucket name
 folder_name = 'capdata/'  # Replace with the desired folder name
 
-with DAG("to_psql", schedule_interval=@daily, default_args=default_args) as dag:
+with DAG("to_psql", schedule_interval=None, default_args=default_args) as dag:
     fetch_and_merge_task = PythonOperator(
         task_id="fetch_and_merge_data",
         python_callable=get_and_merge_data,
