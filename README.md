@@ -1,8 +1,6 @@
-# capstone
-This is in partial fulfillment of my data engineering certificate with TDI
-
+## Capstone
 ## LA Parking Lot Data Analysis Dashboard
-This document presents a project that aims to provide insightful analytics for city planners based on data collected from parking meters in specific blocks of Los Angeles City. The data is collected and provided by [Los Angeles City Directory](https://www.laexpresspark.org/la-city-open-data/). The project is completed as part of my data engineering certificate with TDI.
+This document presents a project that aims to provide insightful analytics for city planners based on data collected from parking meters in specific blocks of Los Angeles City. The data is collected and provided by [Los Angeles City Directory](https://www.laexpresspark.org/la-city-open-data/).
 
 
 ### Data Description: 
