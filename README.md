@@ -14,9 +14,10 @@ The processed data is then seamlessly pushed to a PostgreSQL database using an s
 
 
 ### Conclusion: 
-The visualization and interactivity are powered by the [Streamlit app](https://streamlit.io/), offering an intuitive and user-friendly experience. To host the app, [Python Anywhere](https://www.pythonanywhere.com/) is employed. The interactive visualizations provided by the dashboard empower end users to identify areas that may require new operations or improvements to enhance parking in Los Angeles City. This project serves as a valuable tool for city planners to make data-driven decisions and enhance the overall parking experience in LA.
+The visualization and interactivity are powered by the [Streamlit app](https://streamlit.io/), offering an intuitive and user-friendly experience. The interactive visualizations provided by the dashboard empower end users to identify areas that may require new operations or improvements to enhance parking in Los Angeles City. This project serves as a valuable tool for city planners to make data-driven decisions and enhance the overall parking experience in LA.
 
-
+## Note: 
+The project relies on freely available data which is limited to 1000 non-processed data records.
 End
 
 
