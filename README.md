@@ -2,7 +2,7 @@
 This is in partial fulfillment of my data engineering certificate with TDI
 
 ## LA Parking Lot Data Analysis Dashboard
-This document presents a project that aims to provide insightful analytics for city planners based on data collected from parking meters in specific blocks of Los Angeles City. The data is collected and provided by (Los Angeles City Directory)[https://www.laexpresspark.org/la-city-open-data/]. The project is completed as part of my data engineering certificate with TDI.
+This document presents a project that aims to provide insightful analytics for city planners based on data collected from parking meters in specific blocks of Los Angeles City. The data is collected and provided by [Los Angeles City Directory](https://www.laexpresspark.org/la-city-open-data/). The project is completed as part of my data engineering certificate with TDI.
 
 
 ### Data Description: 
@@ -16,7 +16,7 @@ The processed data is then seamlessly pushed to a PostgreSQL database using an s
 
 
 ### Conclusion: 
-The visualization and interactivity are powered by the (Streamlit app)[https://streamlit.io/], offering an intuitive and user-friendly experience. To host the app, (Python Anywhere)[https://www.pythonanywhere.com/] is employed. The interactive visualizations provided by the dashboard empower end users to identify areas that may require new operations or improvements to enhance parking in Los Angeles City. This project serves as a valuable tool for city planners to make data-driven decisions and enhance the overall parking experience in LA.
+The visualization and interactivity are powered by the [Streamlit app](https://streamlit.io/), offering an intuitive and user-friendly experience. To host the app, [Python Anywhere](https://www.pythonanywhere.com/) is employed. The interactive visualizations provided by the dashboard empower end users to identify areas that may require new operations or improvements to enhance parking in Los Angeles City. This project serves as a valuable tool for city planners to make data-driven decisions and enhance the overall parking experience in LA.
 
 
 End
