@@ -21,6 +21,7 @@ The project relies on freely available data which is limited to 1000 non-process
 
 ### Sample Interface
 when 'streamlit run streamlit_app.py' is run
+![streamlit_app](https://github.com/StellaWava/capstone/assets/40366457/24684495-3f1c-4206-98b2-f2a4ce327b28)
 
 
 
