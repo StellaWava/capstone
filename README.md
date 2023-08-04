@@ -18,6 +18,12 @@ The visualization and interactivity are powered by the [Streamlit app](https://s
 
 ## Note: 
 The project relies on freely available data which is limited to 1000 non-processed data records.
+
+### Sample Interface
+when 'streamlit run streamlit_app.py' is run
+
+
+
 End
 
 
